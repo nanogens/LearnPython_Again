@@ -2,10 +2,12 @@
 24. Write a Python program to test whether a passed letter is a vowel or not.
 '''
 
+#Actual Solution
 def is_vowel(char):
     all_vowels = 'aeiou'
     return char in all_vowels
 
+#MT Solution
 def VowelOrNot(char):
     all_vowels = 'aeiou'
     #below will return true if vowel if found, False if not
