@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae993046-4edf-472b-b491-af67b1605a12" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28_Basic-ConcatElementsIntoString/ConcatElementsIntoString.py" beforeDir="false" afterPath="$PROJECT_DIR$/27_Basic-ConcatElementsIntoString/ConcatElementsIntoString.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.GreatestCommonDivisorOf2Num">
+  <component name="RunManager" selected="Python.SumOf2IntsRet20If15to20">
     <configuration name="BaseHeightTriangleArea" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,48 +61,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30_Basic-BaseHeightTriangleArea/BaseHeightTriangleArea.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ColorsInList1ThatNotInList2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPython_Again" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30_Basic-ColorsInList1ThatNotInList2" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30_Basic-ColorsInList1ThatNotInList2/ColorsInList1ThatNotInList2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EvenNumbersListStop237" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPython_Again" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/29_Basic-EvenNumbersListStop237" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/29_Basic-EvenNumbersListStop237/EvenNumbersListStop237.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,13 +132,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SumOf2IntsRet20If15to20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython_Again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/34_Basic-SumOf2Ints" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/34_Basic-SumOf2Ints/SumOf2IntsRet20If15to20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SumOfIntButZeroIf2ValEqual" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython_Again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/33_Basic-SumOfIntButZeroIf2ValEqual" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/33_Basic-SumOfIntButZeroIf2ValEqual/SumOfIntButZeroIf2ValEqual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SumOf2IntsRet20If15to20" />
+        <item itemvalue="Python.SumOfIntButZeroIf2ValEqual" />
         <item itemvalue="Python.GreatestCommonDivisorOf2Num" />
         <item itemvalue="Python.LastCommonMultiple2PosInts" />
         <item itemvalue="Python.BaseHeightTriangleArea" />
-        <item itemvalue="Python.ColorsInList1ThatNotInList2" />
-        <item itemvalue="Python.EvenNumbersListStop237" />
       </list>
     </recent_temporary>
   </component>
@@ -246,25 +245,33 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#LetterIsVowel/0.0.1536.824@0.0.1536.824" timestamp="1587844538859" />
+    <state x="487" y="9" key="#SumOf2IntsRet20If15to20" timestamp="1587931748068">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#SumOf2IntsRet20If15to20/0.0.1536.824@0.0.1536.824" timestamp="1587931748068" />
+    <state x="487" y="9" key="#SumOfIntButZeroIf2ValEqual" timestamp="1587931153471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#SumOfIntButZeroIf2ValEqual/0.0.1536.824@0.0.1536.824" timestamp="1587931153471" />
     <state x="487" y="9" key="#nCopiesFirst2CharsString" timestamp="1587843738504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#nCopiesFirst2CharsString/0.0.1536.824@0.0.1536.824" timestamp="1587843738504" />
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1587880958027">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1587931770067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587880958027" />
-    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1587880958027">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587931770067" />
+    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1587931770067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587880958027" />
-    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1587880958026">
+    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587931770067" />
+    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1587931770067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587880958026" />
-    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1587880958027">
+    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587931770067" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1587931770067">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587880958027" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587931770067" />
   </component>
 </project>
