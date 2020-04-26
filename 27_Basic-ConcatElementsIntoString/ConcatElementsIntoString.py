@@ -2,6 +2,7 @@
 27. Write a Python program to concatenate all elements in a list into a string and return it.
 '''
 
+#MT Solution
 def Concat(l):
     str = ""
     chra = "";
@@ -11,6 +12,7 @@ def Concat(l):
         y = y + 1
     print("\n" + str)
 
+#Actual Solution
 def concatenate_list_data(list):
     result= ''
     for element in list:
