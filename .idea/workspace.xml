@@ -21,40 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae993046-4edf-472b-b491-af67b1605a12" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_Basic-IntegerTon+nn+nnn/IntegerTon+n+nn+nnn" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/10_Basic-IntegerTon+nn+nnn/IntegerTon+n+nn+nnn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_Basic_PrintDocSyntax/PrintDocSyntax.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/11_Basic_PrintDocSyntax/PrintDocSyntax.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_Basic-CalendarOfMonthOfYear/CalendarOfMonthOfYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/12_Basic-CalendarOfMonthOfYear/CalendarOfMonthOfYear.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_Basic-MultiLineHereDocString/MultiLineHereDocString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/13_Basic-MultiLineHereDocString/MultiLineHereDocString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_Basic-NumberofDaysBetween2Dates/NumberofDaysBetween2Dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/14_Basic-NumberofDaysBetween2Dates/NumberofDaysBetween2Dates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_Basic-VolumeSphereGivenRadius/VolumeSphereGivenRadius.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/15_Basic-VolumeSphereGivenRadius/VolumeSphereGivenRadius.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_Basic-Number17BiggerAbs/Number17BiggerAbs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/16_Basic-Number17BiggerAbs/Number17BiggerAbs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17_Basic-NumberTest100or1000or2000/NumberTest100or1000or2000.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/17_Basic-NumberTest100or1000or2000/NumberTest100or1000or2000.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18_Basic-Sumof3NumbersReturn3X/Sumof3NumbersReturn3X.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/18_Basic-Sumof3NumbersReturn3X/Sumof3NumbersReturn3X.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19_Basic-IsInFront/IsInFront.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/19_Basic-IsInFront/IsInFront.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Basic-StringPrint/StringPrint.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/1_Basic-StringPrint/StringPrint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20_Basic-StringNonNegativeCopies/StringNonNegativeCopies.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/20_Basic-StringNonNegativeCopies/StringNonNegativeCopies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_Basic-OddEvenPrint/OddEvenPrint.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/21_Basic-OddEvenPrint/OddEvenPrint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22_Basic-CountNumber4/CountNumber4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/22_Basic-CountNumber4/CountNumber4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23_Basic-nCopiesFirst2CharsString/nCopiesFirst2CharsString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/23_Basic-nCopiesFirst2CharsString/nCopiesFirst2CharsString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24_Basic-LetterIsVowel/LetterIsVowel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/24_Basic-LetterIsVowel/LetterIsVowel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25_Basic-CheckValueContainedInGroup/CheckValueContainedInGroup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/25_Basic-CheckValueContainedInGroup/CheckValueContainedInGroup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26_Basic-Histogram/Histogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/26_Basic-Histogram/Histogram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/27_Basic-ConcatElementsIntoString/ConcatElementsIntoString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/27_Basic-ConcatElementsIntoString/ConcatElementsIntoString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28_Basic-EvenNumbersListStop237/EvenNumbersListStop237.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/28_Basic-EvenNumbersListStop237/EvenNumbersListStop237.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/29_Basic-ColorsInList1ThatNotInList2/ColorsInList1ThatNotInList2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/29_Basic-ColorsInList1ThatNotInList2/ColorsInList1ThatNotInList2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Basic-PythonVersion/PythonVersion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/2_Basic-PythonVersion/PythonVersion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_Basic-BaseHeightTriangleArea/BaseHeightTriangleArea.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/30_Basic-BaseHeightTriangleArea/BaseHeightTriangleArea.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31_Basic-GreatestCommonDivisorOf2Num/GreatestCommonDivisorOf2Num.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/31_Basic-GreatestCommonDivisorOf2Num/GreatestCommonDivisorOf2Num.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/32_Basic-LeastCommonMultiple2PosInts/LastCommonMultiple2PosInts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/32_Basic-LeastCommonMultiple2PosInts/LastCommonMultiple2PosInts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33_Basic-SumOfIntButZeroIf2ValEqual/SumOfIntButZeroIf2ValEqual.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/33_Basic-SumOfIntButZeroIf2ValEqual/SumOfIntButZeroIf2ValEqual.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/34_Basic-SumOf2Ints/SumOf2IntsRet20If15to20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/34_Basic-SumOf2Ints/SumOf2IntsRet20If15to20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Basic-DateAndTime/DateAndTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/3_Basic-DateAndTime/DateAndTime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Basic-RadiusCircleArea/RadiusCircleArea.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/4_Basic-RadiusCircleArea/RadiusCircleArea.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_Basic-NameReversePrint/NameReversePrint" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/5_Basic-NameReversePrint/NameReversePrint" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_Basic-CSVListTuple/CSVListTuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/6_Basic-CSVListTuple/CSVListTuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_Basic-FileExtensionPrint/FileExtensionPrint.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/7_Basic-FileExtensionPrint/FileExtensionPrint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_Basic-ColorList/ColorList.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/8_Basic-ColorList/ColorList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_Basic-ExamSchedule/ExamSchedule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Part1/9_Basic-ExamSchedule/ExamSchedule.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,8 +56,8 @@
       <recent name="C:\Github\LearnPython_Again\Basic-Part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ReadFirstFewLinesOfFile">
-    <configuration name="CreateTuplePrintOne" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.StringFromStringWithChangedChars">
+    <configuration name="CharFrequencyInChar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple/3_Tuple-CreateTuplePrintOne" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String/2_String-CharFrequencyInString" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/3_Tuple-CreateTuplePrintOne/CreateTuplePrintOne.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/2_String-CharFrequencyInString/CharFrequencyInChar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CreateTupleWithDifferentDataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="First2Last2CharsOfString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple/2_Tuple-CreateTupleWithDifferentDataTypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String/3_String-First2Last2CharsOfString" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/2_Tuple-CreateTupleWithDifferentDataTypes/CreateTupleWithDifferentDataTypes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/3_String-First2Last2CharsOfString/First2Last2CharsOfString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReadEntireTextFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MultiplyItemsInList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileIO/1_FileIO-ReadEntireTextFile" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/List/2_List-MultiplyItemsInList" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileIO/1_FileIO-ReadEntireTextFile/ReadEntireTextFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List/2_List-MultiplyItemsInList/MultiplyItemsInList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReadFirstFewLinesOfFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="StringFromStringWithChangedChars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileIO/2_FileIO-ReadFirstFewLinesOfFile" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String/4_String-StringFromStringWithChangedChars" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileIO/2_FileIO-ReadFirstFewLinesOfFile/ReadFirstFewLinesOfFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/4_String-StringFromStringWithChangedChars/StringFromStringWithChangedChars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="UnpackTupleInSeveralVars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="StringLength" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuple/4_Tuple-UnpackTupleInSeveralVars" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String/1_String-StringLength" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple/4_Tuple-UnpackTupleInSeveralVars/UnpackTupleInSeveralVars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/1_String-StringLength/StringLength.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ReadFirstFewLinesOfFile" />
-        <item itemvalue="Python.ReadEntireTextFile" />
-        <item itemvalue="Python.UnpackTupleInSeveralVars" />
-        <item itemvalue="Python.CreateTuplePrintOne" />
-        <item itemvalue="Python.CreateTupleWithDifferentDataTypes" />
+        <item itemvalue="Python.StringFromStringWithChangedChars" />
+        <item itemvalue="Python.First2Last2CharsOfString" />
+        <item itemvalue="Python.CharFrequencyInChar" />
+        <item itemvalue="Python.StringLength" />
+        <item itemvalue="Python.MultiplyItemsInList" />
       </list>
     </recent_temporary>
   </component>
@@ -252,10 +218,18 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="487" y="9" key="#AppendText" timestamp="1588027536582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#AppendText/0.0.1536.824@0.0.1536.824" timestamp="1588027536582" />
     <state x="487" y="9" key="#BaseHeightTriangleArea" timestamp="1587867081393">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#BaseHeightTriangleArea/0.0.1536.824@0.0.1536.824" timestamp="1587867081393" />
+    <state x="487" y="9" key="#CharFrequencyInChar" timestamp="1588127230177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#CharFrequencyInChar/0.0.1536.824@0.0.1536.824" timestamp="1588127230177" />
     <state x="487" y="9" key="#CheckValueContainedInGroup" timestamp="1587846739212">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -268,6 +242,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#ConcatElementsIntoString/0.0.1536.824@0.0.1536.824" timestamp="1587853712984" />
+    <state x="487" y="9" key="#CreateASet" timestamp="1588110758176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#CreateASet/0.0.1536.824@0.0.1536.824" timestamp="1588110758176" />
     <state x="487" y="9" key="#CreateATuple" timestamp="1587933302110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -284,6 +262,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#EvenNumbersListStop237/0.0.1536.824@0.0.1536.824" timestamp="1587861938561" />
+    <state x="487" y="9" key="#First2Last2CharsOfString" timestamp="1588128458752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#First2Last2CharsOfString/0.0.1536.824@0.0.1536.824" timestamp="1588128458752" />
     <state x="487" y="9" key="#GreatestCommonDivisorOf2Num" timestamp="1587867860369">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -292,6 +274,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#Histogram/0.0.1536.824@0.0.1536.824" timestamp="1587847670806" />
+    <state x="487" y="9" key="#IterateOverSets" timestamp="1588112014791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#IterateOverSets/0.0.1536.824@0.0.1536.824" timestamp="1588112014791" />
     <state x="487" y="9" key="#LastCommonMultiple2PosInts" timestamp="1587880957957">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -300,6 +286,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#LetterIsVowel/0.0.1536.824@0.0.1536.824" timestamp="1587844538859" />
+    <state x="487" y="9" key="#MultiplyItemsInList" timestamp="1588118636517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#MultiplyItemsInList/0.0.1536.824@0.0.1536.824" timestamp="1588118636517" />
     <state x="487" y="9" key="#ReadEntireTextFile" timestamp="1587936680791">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -308,6 +298,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#ReadFirstFewLinesOfFile/0.0.1536.824@0.0.1536.824" timestamp="1587938509439" />
+    <state x="487" y="9" key="#ReadLastnLinesOfFile" timestamp="1588031526308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#ReadLastnLinesOfFile/0.0.1536.824@0.0.1536.824" timestamp="1588031526308" />
+    <state x="487" y="9" key="#StringFromStringWithChangedChars" timestamp="1588129973383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#StringFromStringWithChangedChars/0.0.1536.824@0.0.1536.824" timestamp="1588129973382" />
+    <state x="487" y="9" key="#StringLength" timestamp="1588126983502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#StringLength/0.0.1536.824@0.0.1536.824" timestamp="1588126983502" />
     <state x="487" y="9" key="#SumOf2IntsRet20If15to20" timestamp="1587931748068">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -324,21 +326,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#nCopiesFirst2CharsString/0.0.1536.824@0.0.1536.824" timestamp="1587843738504" />
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1587938575438">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1588130418410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587938575438" />
-    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1587938575438">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588130418410" />
+    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1588130418410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587938575438" />
-    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1587938575438">
+    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588130418410" />
+    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1588130418410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587938575438" />
-    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1587938575438">
+    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588130418410" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1588130418410">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587938575438" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588130418410" />
   </component>
 </project>
