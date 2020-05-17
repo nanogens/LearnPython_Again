@@ -1,0 +1,12 @@
+'''
+4. Write a Python program to get the length in bytes of one array item in the internal representation.
+'''
+
+'''
+Note : I don't understand this one.  
+       The answer is 4 for some strange reason.
+'''
+
+from array import *
+array_num = array('i',[1,2,3,4,5,6,7])
+print(array_num.itemsize)

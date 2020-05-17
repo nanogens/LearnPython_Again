@@ -20,6 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae993046-4edf-472b-b491-af67b1605a12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/1_Array-5IntsDisplay/5IntsDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/2_Array-Append/Append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/4_Array-OneArrayItemLength/OneArrayItemLength" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/5_Array-MultipleOps/MultipleOps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/6_Array-OccurencesInArray/OccurrencesInArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/7_Array-Append/Append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/9_Array-AppendSpecifiedList/AppendSpecifiedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/1_Class-InttoRomanNumerals/RomanNumerals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/2_Class-RomanNumeralstoInt/RomanNumeralstoInt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/4_Class-Subsets/Subsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class/5_Class-SumtoTarget/SumtoTarget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/1_Functions-Maxof3Numbers/Maxof3Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/1_LinkedList-SinglyLinkedList/SinglyLinkedList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,49 +69,7 @@
       <recent name="C:\Github\LearnPython_Again\Basic-Part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.StringFromStringSwapFirst2Chars">
-    <configuration name="CharFrequencyInChar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPython_Again" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String/2_String-CharFrequencyInString" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/2_String-CharFrequencyInString/CharFrequencyInChar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="First2Last2CharsOfString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPython_Again" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String/3_String-First2Last2CharsOfString" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/3_String-First2Last2CharsOfString/First2Last2CharsOfString.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.SumtoTarget">
     <configuration name="Histogram" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StringFromStringSwapFirst2Chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanNumerals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String/5_String-StringFromStringSwapFirst2Chars" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class/1_Class-RomanNumerals" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/5_String-StringFromStringSwapFirst2Chars/StringFromStringSwapFirst2Chars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/1_Class-RomanNumerals/RomanNumerals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StringFromStringWithChangedChars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanNumeralstoInt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String/4_String-StringFromStringWithChangedChars" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class/2_Class-RomanNumeralstoInt" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/4_String-StringFromStringWithChangedChars/StringFromStringWithChangedChars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/2_Class-RomanNumeralstoInt/RomanNumeralstoInt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StringLength" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SinglyLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,11 +141,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String/1_String-StringLength" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList/1_LinkedList-SinglyLinkedList" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/1_String-StringLength/StringLength.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/1_LinkedList-SinglyLinkedList/SinglyLinkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Subsets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython_Again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class/4_Class-Subsets" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/4_Class-Subsets/Subsets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SumtoTarget" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython_Again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class/5_Class-SumtoTarget" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/5_Class-SumtoTarget/SumtoTarget.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.StringFromStringSwapFirst2Chars" />
-        <item itemvalue="Python.StringFromStringWithChangedChars" />
-        <item itemvalue="Python.First2Last2CharsOfString" />
-        <item itemvalue="Python.CharFrequencyInChar" />
-        <item itemvalue="Python.StringLength" />
+        <item itemvalue="Python.SumtoTarget" />
+        <item itemvalue="Python.Subsets" />
+        <item itemvalue="Python.RomanNumeralstoInt" />
+        <item itemvalue="Python.RomanNumerals" />
+        <item itemvalue="Python.SinglyLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -216,12 +229,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="487" y="9" key="#5IntsDisplay" timestamp="1589509161454">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#5IntsDisplay/0.0.1536.824@0.0.1536.824" timestamp="1589509161454" />
+    <state x="487" y="9" key="#Append" timestamp="1589509927018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#Append/0.0.1536.824@0.0.1536.824" timestamp="1589509927018" />
+    <state x="487" y="9" key="#AppendSpecifiedList" timestamp="1589584752528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#AppendSpecifiedList/0.0.1536.824@0.0.1536.824" timestamp="1589584752528" />
     <state x="487" y="9" key="#AppendText" timestamp="1588027536582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#AppendText/0.0.1536.824@0.0.1536.824" timestamp="1588027536582" />
+    <state x="487" y="9" key="#Append_(1)" timestamp="1589580059570">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#Append_(1)/0.0.1536.824@0.0.1536.824" timestamp="1589580059570" />
     <state x="487" y="9" key="#BaseHeightTriangleArea" timestamp="1587867081393">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -286,10 +316,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#LetterIsVowel/0.0.1536.824@0.0.1536.824" timestamp="1587844538859" />
+    <state x="487" y="9" key="#MultipleOps" timestamp="1589522103447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#MultipleOps/0.0.1536.824@0.0.1536.824" timestamp="1589522103447" />
     <state x="487" y="9" key="#MultiplyItemsInList" timestamp="1588118636517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#MultiplyItemsInList/0.0.1536.824@0.0.1536.824" timestamp="1588118636517" />
+    <state x="487" y="9" key="#OccurrencesInArray" timestamp="1589577592130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#OccurrencesInArray/0.0.1536.824@0.0.1536.824" timestamp="1589577592130" />
+    <state x="487" y="9" key="#OneArrayItemLength" timestamp="1589518347449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#OneArrayItemLength/0.0.1536.824@0.0.1536.824" timestamp="1589518347449" />
     <state x="487" y="9" key="#ReadEntireTextFile" timestamp="1587936680791">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -302,6 +344,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#ReadLastnLinesOfFile/0.0.1536.824@0.0.1536.824" timestamp="1588031526308" />
+    <state x="487" y="9" key="#Reverse_Order" timestamp="1589511016313">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#Reverse_Order/0.0.1536.824@0.0.1536.824" timestamp="1589511016313" />
+    <state x="487" y="9" key="#RomanNumerals" timestamp="1589593779787">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#RomanNumerals/0.0.1536.824@0.0.1536.824" timestamp="1589593779787" />
+    <state x="487" y="9" key="#RomanNumeralstoInt" timestamp="1589613669853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#RomanNumeralstoInt/0.0.1536.824@0.0.1536.824" timestamp="1589613669853" />
+    <state x="487" y="9" key="#SinglyLinkedList" timestamp="1589588745509">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#SinglyLinkedList/0.0.1536.824@0.0.1536.824" timestamp="1589588745509" />
     <state x="487" y="9" key="#StringFromStringSwapFirst2Chars" timestamp="1588132096137">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -314,6 +372,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#StringLength/0.0.1536.824@0.0.1536.824" timestamp="1588126983502" />
+    <state x="487" y="9" key="#Subsets" timestamp="1589616343399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#Subsets/0.0.1536.824@0.0.1536.824" timestamp="1589616343399" />
     <state x="487" y="9" key="#SumOf2IntsRet20If15to20" timestamp="1587931748068">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -322,29 +384,53 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#SumOfIntButZeroIf2ValEqual/0.0.1536.824@0.0.1536.824" timestamp="1587931153471" />
+    <state x="487" y="9" key="#SumtoTarget" timestamp="1589669181389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#SumtoTarget/0.0.1536.824@0.0.1536.824" timestamp="1589669181389" />
     <state x="487" y="9" key="#UnpackTupleInSeveralVars" timestamp="1587934178760">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#UnpackTupleInSeveralVars/0.0.1536.824@0.0.1536.824" timestamp="1587934178760" />
+    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589518122617">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589518122617" />
     <state x="487" y="9" key="#nCopiesFirst2CharsString" timestamp="1587843738504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#nCopiesFirst2CharsString/0.0.1536.824@0.0.1536.824" timestamp="1587843738504" />
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1588286080138">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1589693779444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588286080138" />
-    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1588286080138">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589693779444" />
+    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1589693779444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588286080138" />
-    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1588286080138">
+    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589693779444" />
+    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1589693779444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588286080138" />
-    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1588286080138">
+    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589693779444" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1589693779444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588286080138" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589693779444" />
+    <state width="1515" height="262" key="GridCell.Tab.1.bottom" timestamp="1589511037946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589511037946" />
+    <state width="1515" height="262" key="GridCell.Tab.1.center" timestamp="1589511037946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589511037946" />
+    <state width="1515" height="262" key="GridCell.Tab.1.left" timestamp="1589511037946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589511037946" />
+    <state width="1515" height="262" key="GridCell.Tab.1.right" timestamp="1589511037946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589511037946" />
   </component>
 </project>
