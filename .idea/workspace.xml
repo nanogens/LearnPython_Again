@@ -20,20 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae993046-4edf-472b-b491-af67b1605a12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/1_Array-5IntsDisplay/5IntsDisplay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/2_Array-Append/Append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/4_Array-OneArrayItemLength/OneArrayItemLength" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/5_Array-MultipleOps/MultipleOps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/6_Array-OccurencesInArray/OccurrencesInArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/7_Array-Append/Append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/9_Array-AppendSpecifiedList/AppendSpecifiedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/1_Class-InttoRomanNumerals/RomanNumerals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/2_Class-RomanNumeralstoInt/RomanNumeralstoInt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/4_Class-Subsets/Subsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class/5_Class-SumtoTarget/SumtoTarget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/1_Functions-Maxof3Numbers/Maxof3Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/1_LinkedList-SinglyLinkedList/SinglyLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/2_Functions-SumOfList/SumOfList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/4_Functions-ReverseString/ReverseString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/5_Functions-CheckNumInRange/CheckNumInRange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/6_Functions-NumbOfUpperLower/NumbOfUpperLower.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/1_Functions-Maxof3Numbers/Maxof3Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/1_Functions-Maxof3Numbers/Maxof3Numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +61,28 @@
       <recent name="C:\Github\LearnPython_Again\Basic-Part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SumtoTarget">
+  <component name="RunManager" selected="Python.CheckNumInRange">
+    <configuration name="CheckNumInRange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython_Again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions/5_Functions-CheckNumInRange" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/5_Functions-CheckNumInRange/CheckNumInRange.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Histogram" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RomanNumerals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Maxof3Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class/1_Class-RomanNumerals" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions/1_Functions-Maxof3Numbers" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/1_Class-RomanNumerals/RomanNumerals.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/1_Functions-Maxof3Numbers/Maxof3Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RomanNumeralstoInt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class/2_Class-RomanNumeralstoInt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions/4_Functions-ReverseString" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/2_Class-RomanNumeralstoInt/RomanNumeralstoInt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/4_Functions-ReverseString/ReverseString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SinglyLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SumOfList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,32 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList/1_LinkedList-SinglyLinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions/2_Functions-SumOfList" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/1_LinkedList-SinglyLinkedList/SinglyLinkedList.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Subsets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPython_Again" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class/4_Class-Subsets" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/4_Class-Subsets/Subsets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/2_Functions-SumOfList/SumOfList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CheckNumInRange" />
+        <item itemvalue="Python.ReverseString" />
+        <item itemvalue="Python.SumOfList" />
+        <item itemvalue="Python.Maxof3Numbers" />
         <item itemvalue="Python.SumtoTarget" />
-        <item itemvalue="Python.Subsets" />
-        <item itemvalue="Python.RomanNumeralstoInt" />
-        <item itemvalue="Python.RomanNumerals" />
-        <item itemvalue="Python.SinglyLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -260,6 +252,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#CharFrequencyInChar/0.0.1536.824@0.0.1536.824" timestamp="1588127230177" />
+    <state x="487" y="9" key="#CheckNumInRange" timestamp="1589702622905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#CheckNumInRange/0.0.1536.824@0.0.1536.824" timestamp="1589702622905" />
     <state x="487" y="9" key="#CheckValueContainedInGroup" timestamp="1587846739212">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -316,6 +312,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#LetterIsVowel/0.0.1536.824@0.0.1536.824" timestamp="1587844538859" />
+    <state x="487" y="9" key="#Maxof3Numbers" timestamp="1589696279652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#Maxof3Numbers/0.0.1536.824@0.0.1536.824" timestamp="1589696279652" />
     <state x="487" y="9" key="#MultipleOps" timestamp="1589522103447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -344,6 +344,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#ReadLastnLinesOfFile/0.0.1536.824@0.0.1536.824" timestamp="1588031526308" />
+    <state x="487" y="9" key="#ReverseString" timestamp="1589697441491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#ReverseString/0.0.1536.824@0.0.1536.824" timestamp="1589697441491" />
     <state x="487" y="9" key="#Reverse_Order" timestamp="1589511016313">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -384,6 +388,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#SumOfIntButZeroIf2ValEqual/0.0.1536.824@0.0.1536.824" timestamp="1587931153471" />
+    <state x="487" y="9" key="#SumOfList" timestamp="1589696905512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="9" key="#SumOfList/0.0.1536.824@0.0.1536.824" timestamp="1589696905512" />
     <state x="487" y="9" key="#SumtoTarget" timestamp="1589669181389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -400,22 +408,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="487" y="9" key="#nCopiesFirst2CharsString/0.0.1536.824@0.0.1536.824" timestamp="1587843738504" />
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1589693779444">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1589702660525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589693779444" />
-    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1589693779444">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589702660525" />
+    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1589702660525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589693779444" />
-    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1589693779444">
+    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589702660525" />
+    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1589702660525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589693779444" />
-    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1589693779444">
+    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589702660525" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1589702660525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589693779444" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589702660525" />
     <state width="1515" height="262" key="GridCell.Tab.1.bottom" timestamp="1589511037946">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -432,5 +440,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589511037946" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589696509395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589696509395" />
   </component>
 </project>
