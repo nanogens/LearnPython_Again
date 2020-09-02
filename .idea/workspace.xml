@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae993046-4edf-472b-b491-af67b1605a12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Class/0_Class_GeneralLearning-Ex1/Ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SerialPort/Serial_Try1/Serial_Try1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threading/Thread_Try1/Thread_Try1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       <recent name="C:\Github\LearnPython_Again\Basic-Part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex1">
+  <component name="RunManager" selected="Python.Serial_Try1">
     <configuration name="CheckNumInRange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,27 +122,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Maxof3Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPython_Again" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions/1_Functions-Maxof3Numbers" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/1_Functions-Maxof3Numbers/Maxof3Numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SumOfList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Serial_Try1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +151,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions/2_Functions-SumOfList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SerialPort/Serial_Try1" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/2_Functions-SumOfList/SumOfList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SerialPort/Serial_Try1/Serial_Try1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Thread_Try1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython_Again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Threading/Thread_Try1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Threading/Thread_Try1/Thread_Try1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Serial_Try1" />
+        <item itemvalue="Python.Thread_Try1" />
         <item itemvalue="Python.Ex1" />
         <item itemvalue="Python.CheckNumInRange" />
         <item itemvalue="Python.ReverseString" />
-        <item itemvalue="Python.SumOfList" />
-        <item itemvalue="Python.Maxof3Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -220,229 +221,33 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="487" y="9" key="#5IntsDisplay" timestamp="1589509161454">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="536" y="37" key="#Serial_Try1" timestamp="1598687250474">
+      <screen x="0" y="0" width="1638" height="882" />
     </state>
-    <state x="487" y="9" key="#5IntsDisplay/0.0.1536.824@0.0.1536.824" timestamp="1589509161454" />
-    <state x="487" y="9" key="#Append" timestamp="1589509927018">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="536" y="37" key="#Serial_Try1/0.0.1638.882@0.0.1638.882" timestamp="1598687250474" />
+    <state x="536" y="37" key="#Thread_Try1" timestamp="1598695110923">
+      <screen x="0" y="0" width="1638" height="882" />
     </state>
-    <state x="487" y="9" key="#Append/0.0.1536.824@0.0.1536.824" timestamp="1589509927018" />
-    <state x="487" y="9" key="#AppendSpecifiedList" timestamp="1589584752528">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="536" y="37" key="#Thread_Try1/0.0.1638.882@0.0.1638.882" timestamp="1598695110923" />
+    <state x="572" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598695020515">
+      <screen x="0" y="0" width="1638" height="882" />
     </state>
-    <state x="487" y="9" key="#AppendSpecifiedList/0.0.1536.824@0.0.1536.824" timestamp="1589584752528" />
-    <state x="487" y="9" key="#AppendText" timestamp="1588027536582">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="572" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1638.882@0.0.1638.882" timestamp="1598695020515" />
+    <state width="1618" height="229" key="GridCell.Tab.0.bottom" timestamp="1598754533854">
+      <screen x="0" y="0" width="1638" height="882" />
     </state>
-    <state x="487" y="9" key="#AppendText/0.0.1536.824@0.0.1536.824" timestamp="1588027536582" />
-    <state x="487" y="9" key="#Append_(1)" timestamp="1589580059570">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1618" height="229" key="GridCell.Tab.0.bottom/0.0.1638.882@0.0.1638.882" timestamp="1598754533854" />
+    <state width="1618" height="229" key="GridCell.Tab.0.center" timestamp="1598754533854">
+      <screen x="0" y="0" width="1638" height="882" />
     </state>
-    <state x="487" y="9" key="#Append_(1)/0.0.1536.824@0.0.1536.824" timestamp="1589580059570" />
-    <state x="487" y="9" key="#BaseHeightTriangleArea" timestamp="1587867081393">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1618" height="229" key="GridCell.Tab.0.center/0.0.1638.882@0.0.1638.882" timestamp="1598754533854" />
+    <state width="1618" height="229" key="GridCell.Tab.0.left" timestamp="1598754533854">
+      <screen x="0" y="0" width="1638" height="882" />
     </state>
-    <state x="487" y="9" key="#BaseHeightTriangleArea/0.0.1536.824@0.0.1536.824" timestamp="1587867081393" />
-    <state x="487" y="9" key="#CharFrequencyInChar" timestamp="1588127230177">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1618" height="229" key="GridCell.Tab.0.left/0.0.1638.882@0.0.1638.882" timestamp="1598754533854" />
+    <state width="1618" height="229" key="GridCell.Tab.0.right" timestamp="1598754533854">
+      <screen x="0" y="0" width="1638" height="882" />
     </state>
-    <state x="487" y="9" key="#CharFrequencyInChar/0.0.1536.824@0.0.1536.824" timestamp="1588127230177" />
-    <state x="487" y="9" key="#CheckNumInRange" timestamp="1589702622905">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#CheckNumInRange/0.0.1536.824@0.0.1536.824" timestamp="1589702622905" />
-    <state x="487" y="9" key="#CheckValueContainedInGroup" timestamp="1587846739212">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#CheckValueContainedInGroup/0.0.1536.824@0.0.1536.824" timestamp="1587846739212" />
-    <state x="487" y="9" key="#ColorsInList1ThatNotInList2" timestamp="1587862911947">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#ColorsInList1ThatNotInList2/0.0.1536.824@0.0.1536.824" timestamp="1587862911947" />
-    <state x="487" y="9" key="#ConcatElementsIntoString" timestamp="1587853712984">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#ConcatElementsIntoString/0.0.1536.824@0.0.1536.824" timestamp="1587853712984" />
-    <state x="487" y="9" key="#CreateASet" timestamp="1588110758176">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#CreateASet/0.0.1536.824@0.0.1536.824" timestamp="1588110758176" />
-    <state x="487" y="9" key="#CreateATuple" timestamp="1587933302110">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#CreateATuple/0.0.1536.824@0.0.1536.824" timestamp="1587933302110" />
-    <state x="487" y="9" key="#CreateTuplePrintOne" timestamp="1587933846697">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#CreateTuplePrintOne/0.0.1536.824@0.0.1536.824" timestamp="1587933846697" />
-    <state x="487" y="9" key="#CreateTupleWithDifferentDataTypes" timestamp="1587933545883">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#CreateTupleWithDifferentDataTypes/0.0.1536.824@0.0.1536.824" timestamp="1587933545883" />
-    <state x="487" y="9" key="#EvenNumbersListStop237" timestamp="1587861938561">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#EvenNumbersListStop237/0.0.1536.824@0.0.1536.824" timestamp="1587861938561" />
-    <state x="487" y="9" key="#Ex1" timestamp="1589759623037">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#Ex1/0.0.1536.824@0.0.1536.824" timestamp="1589759623037" />
-    <state x="487" y="9" key="#First2Last2CharsOfString" timestamp="1588128458752">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#First2Last2CharsOfString/0.0.1536.824@0.0.1536.824" timestamp="1588128458752" />
-    <state x="487" y="9" key="#GreatestCommonDivisorOf2Num" timestamp="1587867860369">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#GreatestCommonDivisorOf2Num/0.0.1536.824@0.0.1536.824" timestamp="1587867860369" />
-    <state x="487" y="9" key="#Histogram" timestamp="1587847670806">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#Histogram/0.0.1536.824@0.0.1536.824" timestamp="1587847670806" />
-    <state x="487" y="9" key="#IterateOverSets" timestamp="1588112014791">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#IterateOverSets/0.0.1536.824@0.0.1536.824" timestamp="1588112014791" />
-    <state x="487" y="9" key="#LastCommonMultiple2PosInts" timestamp="1587880957957">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#LastCommonMultiple2PosInts/0.0.1536.824@0.0.1536.824" timestamp="1587880957957" />
-    <state x="487" y="9" key="#LetterIsVowel" timestamp="1587844538859">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#LetterIsVowel/0.0.1536.824@0.0.1536.824" timestamp="1587844538859" />
-    <state x="487" y="9" key="#Maxof3Numbers" timestamp="1589696279652">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#Maxof3Numbers/0.0.1536.824@0.0.1536.824" timestamp="1589696279652" />
-    <state x="487" y="9" key="#MultipleOps" timestamp="1589522103447">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#MultipleOps/0.0.1536.824@0.0.1536.824" timestamp="1589522103447" />
-    <state x="487" y="9" key="#MultiplyItemsInList" timestamp="1588118636517">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#MultiplyItemsInList/0.0.1536.824@0.0.1536.824" timestamp="1588118636517" />
-    <state x="487" y="9" key="#OccurrencesInArray" timestamp="1589577592130">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#OccurrencesInArray/0.0.1536.824@0.0.1536.824" timestamp="1589577592130" />
-    <state x="487" y="9" key="#OneArrayItemLength" timestamp="1589518347449">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#OneArrayItemLength/0.0.1536.824@0.0.1536.824" timestamp="1589518347449" />
-    <state x="487" y="9" key="#ReadEntireTextFile" timestamp="1587936680791">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#ReadEntireTextFile/0.0.1536.824@0.0.1536.824" timestamp="1587936680791" />
-    <state x="487" y="9" key="#ReadFirstFewLinesOfFile" timestamp="1587938509439">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#ReadFirstFewLinesOfFile/0.0.1536.824@0.0.1536.824" timestamp="1587938509439" />
-    <state x="487" y="9" key="#ReadLastnLinesOfFile" timestamp="1588031526308">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#ReadLastnLinesOfFile/0.0.1536.824@0.0.1536.824" timestamp="1588031526308" />
-    <state x="487" y="9" key="#ReverseString" timestamp="1589697441491">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#ReverseString/0.0.1536.824@0.0.1536.824" timestamp="1589697441491" />
-    <state x="487" y="9" key="#Reverse_Order" timestamp="1589511016313">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#Reverse_Order/0.0.1536.824@0.0.1536.824" timestamp="1589511016313" />
-    <state x="487" y="9" key="#RomanNumerals" timestamp="1589593779787">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#RomanNumerals/0.0.1536.824@0.0.1536.824" timestamp="1589593779787" />
-    <state x="487" y="9" key="#RomanNumeralstoInt" timestamp="1589613669853">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#RomanNumeralstoInt/0.0.1536.824@0.0.1536.824" timestamp="1589613669853" />
-    <state x="487" y="9" key="#SinglyLinkedList" timestamp="1589588745509">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#SinglyLinkedList/0.0.1536.824@0.0.1536.824" timestamp="1589588745509" />
-    <state x="487" y="9" key="#StringFromStringSwapFirst2Chars" timestamp="1588132096137">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#StringFromStringSwapFirst2Chars/0.0.1536.824@0.0.1536.824" timestamp="1588132096137" />
-    <state x="487" y="9" key="#StringFromStringWithChangedChars" timestamp="1588129973383">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#StringFromStringWithChangedChars/0.0.1536.824@0.0.1536.824" timestamp="1588129973382" />
-    <state x="487" y="9" key="#StringLength" timestamp="1588126983502">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#StringLength/0.0.1536.824@0.0.1536.824" timestamp="1588126983502" />
-    <state x="487" y="9" key="#Subsets" timestamp="1589616343399">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#Subsets/0.0.1536.824@0.0.1536.824" timestamp="1589616343399" />
-    <state x="487" y="9" key="#SumOf2IntsRet20If15to20" timestamp="1587931748068">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#SumOf2IntsRet20If15to20/0.0.1536.824@0.0.1536.824" timestamp="1587931748068" />
-    <state x="487" y="9" key="#SumOfIntButZeroIf2ValEqual" timestamp="1587931153471">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#SumOfIntButZeroIf2ValEqual/0.0.1536.824@0.0.1536.824" timestamp="1587931153471" />
-    <state x="487" y="9" key="#SumOfList" timestamp="1589696905512">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#SumOfList/0.0.1536.824@0.0.1536.824" timestamp="1589696905512" />
-    <state x="487" y="9" key="#SumtoTarget" timestamp="1589669181389">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#SumtoTarget/0.0.1536.824@0.0.1536.824" timestamp="1589669181389" />
-    <state x="487" y="9" key="#UnpackTupleInSeveralVars" timestamp="1587934178760">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#UnpackTupleInSeveralVars/0.0.1536.824@0.0.1536.824" timestamp="1587934178760" />
-    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589518122617">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="498" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589518122617" />
-    <state x="487" y="9" key="#nCopiesFirst2CharsString" timestamp="1587843738504">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="487" y="9" key="#nCopiesFirst2CharsString/0.0.1536.824@0.0.1536.824" timestamp="1587843738504" />
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1589760282644">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589760282644" />
-    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1589760282644">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589760282644" />
-    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1589760282644">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589760282644" />
-    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1589760282644">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589760282644" />
-    <state width="1515" height="262" key="GridCell.Tab.1.bottom" timestamp="1589511037946">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589511037946" />
-    <state width="1515" height="262" key="GridCell.Tab.1.center" timestamp="1589511037946">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="262" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589511037946" />
-    <state width="1515" height="262" key="GridCell.Tab.1.left" timestamp="1589511037946">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="262" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589511037946" />
-    <state width="1515" height="262" key="GridCell.Tab.1.right" timestamp="1589511037946">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1515" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589511037946" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589696509395">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589696509395" />
+    <state width="1618" height="229" key="GridCell.Tab.0.right/0.0.1638.882@0.0.1638.882" timestamp="1598754533854" />
   </component>
 </project>
