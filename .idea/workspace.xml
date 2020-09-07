@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae993046-4edf-472b-b491-af67b1605a12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SerialPort/Serial_Try1/Serial_Try1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Threading/Thread_Try1/Thread_Try1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threading/Thread_Try2/Thread_Try2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threading/Thread_Try3/Thread_Try3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,28 +58,7 @@
       <recent name="C:\Github\LearnPython_Again\Basic-Part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Serial_Try1">
-    <configuration name="CheckNumInRange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPython_Again" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions/5_Functions-CheckNumInRange" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/5_Functions-CheckNumInRange/CheckNumInRange.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Thread_Try3">
     <configuration name="Ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,27 +93,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26_Basic-Histogram/Histogram.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPython_Again" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions/4_Functions-ReverseString" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/4_Functions-ReverseString/ReverseString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,13 +143,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Thread_Try2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython_Again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Threading/Thread_Try2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Threading/Thread_Try2/Thread_Try2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Thread_Try3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython_Again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Threading/Thread_Try3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Threading/Thread_Try3/Thread_Try3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Serial_Try1" />
+        <item itemvalue="Python.Thread_Try3" />
+        <item itemvalue="Python.Thread_Try2" />
         <item itemvalue="Python.Thread_Try1" />
+        <item itemvalue="Python.Serial_Try1" />
         <item itemvalue="Python.Ex1" />
-        <item itemvalue="Python.CheckNumInRange" />
-        <item itemvalue="Python.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -229,25 +229,33 @@
       <screen x="0" y="0" width="1638" height="882" />
     </state>
     <state x="536" y="37" key="#Thread_Try1/0.0.1638.882@0.0.1638.882" timestamp="1598695110923" />
+    <state x="536" y="37" key="#Thread_Try2" timestamp="1599086363347">
+      <screen x="0" y="0" width="1638" height="882" />
+    </state>
+    <state x="536" y="37" key="#Thread_Try2/0.0.1638.882@0.0.1638.882" timestamp="1599086363347" />
+    <state x="536" y="37" key="#Thread_Try3" timestamp="1599242925607">
+      <screen x="0" y="0" width="1638" height="882" />
+    </state>
+    <state x="536" y="37" key="#Thread_Try3/0.0.1638.882@0.0.1638.882" timestamp="1599242925606" />
     <state x="572" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598695020515">
       <screen x="0" y="0" width="1638" height="882" />
     </state>
     <state x="572" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1638.882@0.0.1638.882" timestamp="1598695020515" />
-    <state width="1618" height="229" key="GridCell.Tab.0.bottom" timestamp="1598754533854">
+    <state width="1618" height="229" key="GridCell.Tab.0.bottom" timestamp="1599512841457">
       <screen x="0" y="0" width="1638" height="882" />
     </state>
-    <state width="1618" height="229" key="GridCell.Tab.0.bottom/0.0.1638.882@0.0.1638.882" timestamp="1598754533854" />
-    <state width="1618" height="229" key="GridCell.Tab.0.center" timestamp="1598754533854">
+    <state width="1618" height="229" key="GridCell.Tab.0.bottom/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
+    <state width="1618" height="229" key="GridCell.Tab.0.center" timestamp="1599512841457">
       <screen x="0" y="0" width="1638" height="882" />
     </state>
-    <state width="1618" height="229" key="GridCell.Tab.0.center/0.0.1638.882@0.0.1638.882" timestamp="1598754533854" />
-    <state width="1618" height="229" key="GridCell.Tab.0.left" timestamp="1598754533854">
+    <state width="1618" height="229" key="GridCell.Tab.0.center/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
+    <state width="1618" height="229" key="GridCell.Tab.0.left" timestamp="1599512841457">
       <screen x="0" y="0" width="1638" height="882" />
     </state>
-    <state width="1618" height="229" key="GridCell.Tab.0.left/0.0.1638.882@0.0.1638.882" timestamp="1598754533854" />
-    <state width="1618" height="229" key="GridCell.Tab.0.right" timestamp="1598754533854">
+    <state width="1618" height="229" key="GridCell.Tab.0.left/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
+    <state width="1618" height="229" key="GridCell.Tab.0.right" timestamp="1599512841457">
       <screen x="0" y="0" width="1638" height="882" />
     </state>
-    <state width="1618" height="229" key="GridCell.Tab.0.right/0.0.1638.882@0.0.1638.882" timestamp="1598754533854" />
+    <state width="1618" height="229" key="GridCell.Tab.0.right/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
   </component>
 </project>
