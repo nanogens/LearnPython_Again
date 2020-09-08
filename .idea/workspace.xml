@@ -48,7 +48,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/FileIO/2_FileIO-ReadFirstFewLinesOfFile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -58,20 +59,20 @@
       <recent name="C:\Github\LearnPython_Again\Basic-Part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Thread_Try3">
-    <configuration name="Ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Thread_Try1">
+    <configuration name="CreateASet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class/0_Class_GeneralLearning-Ex1" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set/1_Set-CreateASet" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/0_Class_GeneralLearning-Ex1/Ex1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set/1_Set-CreateASet/CreateASet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,19 +102,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Serial_Try1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="StringLength" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\MT\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SerialPort/Serial_Try1" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String/1_String-StringLength" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SerialPort/Serial_Try1/Serial_Try1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/1_String-StringLength/StringLength.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,14 +188,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Thread_Try1" />
+        <item itemvalue="Python.CreateASet" />
+        <item itemvalue="Python.StringLength" />
         <item itemvalue="Python.Thread_Try3" />
         <item itemvalue="Python.Thread_Try2" />
-        <item itemvalue="Python.Thread_Try1" />
-        <item itemvalue="Python.Serial_Try1" />
-        <item itemvalue="Python.Ex1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -241,21 +243,33 @@
       <screen x="0" y="0" width="1638" height="882" />
     </state>
     <state x="572" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1638.882@0.0.1638.882" timestamp="1598695020515" />
-    <state width="1618" height="229" key="GridCell.Tab.0.bottom" timestamp="1599512841457">
-      <screen x="0" y="0" width="1638" height="882" />
+    <state x="420" y="95" key="FileChooserDialogImpl" timestamp="1599576880556">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599576880556" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1599577412354">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599577412354" />
     <state width="1618" height="229" key="GridCell.Tab.0.bottom/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
-    <state width="1618" height="229" key="GridCell.Tab.0.center" timestamp="1599512841457">
-      <screen x="0" y="0" width="1638" height="882" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1599577412354">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599577412354" />
     <state width="1618" height="229" key="GridCell.Tab.0.center/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
-    <state width="1618" height="229" key="GridCell.Tab.0.left" timestamp="1599512841457">
-      <screen x="0" y="0" width="1638" height="882" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1599577412354">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599577412354" />
     <state width="1618" height="229" key="GridCell.Tab.0.left/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
-    <state width="1618" height="229" key="GridCell.Tab.0.right" timestamp="1599512841457">
-      <screen x="0" y="0" width="1638" height="882" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1599577412354">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599577412354" />
     <state width="1618" height="229" key="GridCell.Tab.0.right/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1599577390966">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599577390966" />
   </component>
 </project>
