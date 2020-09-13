@@ -4,12 +4,15 @@ import time
 
 import serial
 
+# --------------------------------------------------------------------------------------
+
 def string_length(str1):
     count = 0
     for char in str1:
         count += 1
     return count
 
+# --------------------------------------------------------------------------------------
 
 def thread_function(name):
     logging.info("Thread %s: starting", name)
@@ -29,8 +32,6 @@ def thread_function(name):
     packet.append(0x07)
     packet.append(0x01)
     packet.append(0xA2)
-
-
 
     while 1:
         # get keyboard input
