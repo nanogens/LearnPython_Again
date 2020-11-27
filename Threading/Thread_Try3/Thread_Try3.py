@@ -54,7 +54,7 @@ def thread_function(name):
             read_byte = ''
             bytecount = 0
             read_byte = ser.read()
-            while string_length(read_byte) is not 0:
+            while string_length(read_byte) != 0:
                 print ('%x' % ord(read_byte))
                 read_byte = ser.read()
 
