@@ -70,28 +70,7 @@
       <recent name="C:\Github\LearnPython_Again\Basic-Part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Thread_TryB2">
-    <configuration name="CreateASet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearnPython_Again" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set/1_Set-CreateASet" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set/1_Set-CreateASet/CreateASet.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Run_Potentiostat">
     <configuration name="Histogram" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="LearnPython_Again" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,6 +84,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26_Basic-Histogram/Histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run_Potentiostat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython_Again" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Run_Potentiostat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Run_Potentiostat" />
         <item itemvalue="Python.Thread_TryB2" />
         <item itemvalue="Python.Thread_Try1" />
         <item itemvalue="Python.Thread_Try2" />
         <item itemvalue="Python.Thread_Try3" />
-        <item itemvalue="Python.CreateASet" />
       </list>
     </recent_temporary>
   </component>
@@ -234,59 +234,33 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="536" y="37" key="#Serial_Try1" timestamp="1598687250474">
-      <screen x="0" y="0" width="1638" height="882" />
-    </state>
-    <state x="536" y="37" key="#Serial_Try1/0.0.1638.882@0.0.1638.882" timestamp="1598687250474" />
-    <state x="536" y="37" key="#Thread_Try1" timestamp="1598695110923">
-      <screen x="0" y="0" width="1638" height="882" />
-    </state>
-    <state x="536" y="37" key="#Thread_Try1/0.0.1638.882@0.0.1638.882" timestamp="1598695110923" />
-    <state x="536" y="37" key="#Thread_Try2" timestamp="1599086363347">
-      <screen x="0" y="0" width="1638" height="882" />
-    </state>
-    <state x="536" y="37" key="#Thread_Try2/0.0.1638.882@0.0.1638.882" timestamp="1599086363347" />
-    <state x="536" y="37" key="#Thread_Try3" timestamp="1599242925607">
-      <screen x="0" y="0" width="1638" height="882" />
-    </state>
-    <state x="536" y="37" key="#Thread_Try3/0.0.1638.882@0.0.1638.882" timestamp="1599242925606" />
-    <state x="572" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598695020515">
-      <screen x="0" y="0" width="1638" height="882" />
-    </state>
-    <state x="572" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1638.882@0.0.1638.882" timestamp="1598695020515" />
     <state x="469" y="96" key="FileChooserDialogImpl" timestamp="1606449801291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599576880556" />
     <state x="469" y="96" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606449801291" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom" timestamp="1606469702709">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1899" height="283" key="GridCell.Tab.0.bottom" timestamp="1608825886268">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1599577412354" />
-    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606469702709" />
-    <state width="1618" height="229" key="GridCell.Tab.0.bottom/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center" timestamp="1606469702709">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1345" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606842281669" />
+    <state width="1899" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608825886268" />
+    <state width="1899" height="283" key="GridCell.Tab.0.center" timestamp="1608825886267">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1599577412354" />
-    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606469702709" />
-    <state width="1618" height="229" key="GridCell.Tab.0.center/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left" timestamp="1606469702709">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1345" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606842281668" />
+    <state width="1899" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608825886267" />
+    <state width="1899" height="283" key="GridCell.Tab.0.left" timestamp="1608825886267">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1599577412354" />
-    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606469702709" />
-    <state width="1618" height="229" key="GridCell.Tab.0.left/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right" timestamp="1606469702709">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1345" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606842281667" />
+    <state width="1899" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608825886267" />
+    <state width="1899" height="283" key="GridCell.Tab.0.right" timestamp="1608825886268">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1599577412354" />
-    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606469702709" />
-    <state width="1618" height="229" key="GridCell.Tab.0.right/0.0.1638.882@0.0.1638.882" timestamp="1599512841457" />
+    <state width="1345" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606842281668" />
+    <state width="1899" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608825886268" />
     <state x="152" y="0" key="SettingsEditor" timestamp="1606449833849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1599577390966" />
     <state x="152" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606449833849" />
   </component>
 </project>
