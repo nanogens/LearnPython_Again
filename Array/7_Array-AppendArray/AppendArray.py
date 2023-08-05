@@ -1,5 +1,5 @@
 '''
-Write a Python program to append items from inerrable to the end of the array.
+Write a Python program to append items from an array to the end of another array.
 '''
 
 def App(x_arr):

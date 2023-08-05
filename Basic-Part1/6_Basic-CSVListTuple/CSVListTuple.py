@@ -21,7 +21,7 @@ once created) and can hold mix data types.
 
 #Actual Solution
 values = input("\nEnter a few numbers separated by commas: ")
-list = values.split(",")
-tuple = tuple(list)
-print('List: ',list)
-print('Tuple: ',tuple)
+listx = values.split(",")
+tuplex = tuple(listx)
+print('List: ',listx)
+print('Tuple: ',tuplex)

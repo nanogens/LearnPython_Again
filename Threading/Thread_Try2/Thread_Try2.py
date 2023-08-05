@@ -38,8 +38,8 @@ def thread_function(name):
 if __name__ == "__main__":
     # configure the serial connections (the parameters differs on the device you are connecting to)
     ser = serial.Serial(
-        port="COM3",
-        baudrate=115200,
+        port="COM2",
+        baudrate=9600,
         parity=serial.PARITY_NONE,
         stopbits=serial.STOPBITS_ONE,
         bytesize=serial.EIGHTBITS
